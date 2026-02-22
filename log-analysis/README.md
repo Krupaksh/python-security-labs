@@ -1,10 +1,10 @@
-# Log Analysis Lab
+# Log Analysis
 
-Basic log file parser that scans for defined patterns and counts occurrences.
+Exercises focused on inspecting and parsing log files to identify patterns, anomalies, and event counts.
 
 ### Concepts Practiced
-
 - File handling
-- Loop control
-- String matching
+- Iteration over large datasets
+- Pattern matching
+- Basic anomaly detection logic
 - Exception handling
